@@ -1,0 +1,36 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+#getSuperhero img{
+  height: 500px;
+  width: 500px;
+}
+
+#getSuperhero {
+  margin-left: 50px;
+}
+
+.labels {
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#title {
+ font-size: 25px;
+ color: black;
+ margin-left: 50px;
+ margin-top: 10px;
+}
+
+.container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.container h1 {
+  font-weight: bold;
+}
